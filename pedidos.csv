@@ -1,0 +1,11 @@
+id,customerName,address,zipCode,orderValue,region,status,sequence,latitude,longitude
+20260301_2207_01,Ana Silva,Av. Paulista 1000 - São Paulo SP,01310-100,250.50,Sudeste,DELIVERED,1,-23.5615,-46.6559
+20260301_2207_02,Bruno Oliveira,Rua Augusta 1500 - São Paulo SP,01305-100,120.00,Sudeste,IN_TRANSIT,2,-23.5594,-46.6618
+20260301_2207_03,Carla Souza,Rua Oscar Freire 500 - São Paulo SP,01426-001,450.75,Sudeste,PENDING,3,-23.5661,-46.6673
+20260301_2207_04,Diego Santos,Av. Atlântica 1702 - Rio de Janeiro RJ,22021-001,310.20,Sudeste,DELIVERED,1,-22.9642,-43.1731
+20260301_2207_05,Elena Ferreira,Rua Visconde de Pirajá 300 - Rio de Janeiro RJ,22410-000,89.90,Sudeste,CANCELLED,2,-22.9841,-43.2015
+20260301_2207_06,Fábio Lima,Rua dos Pinheiros 1200 - São Paulo SP,05422-002,155.00,Sudeste,IN_TRANSIT,4,-23.5678,-46.6845
+20260301_2207_07,Gisele Costa,Av. Brigadeiro Faria Lima 3477 - São Paulo SP,04538-133,520.00,Sudeste,PENDING,5,-23.5849,-46.6842
+20260301_2207_08,Hugo Mendes,Rua Haddock Lobo 100 - Rio de Janeiro RJ,20260-001,215.40,Sudeste,DELIVERED,3,-22.9213,-43.2104
+20260301_2207_09,Iara Rocha,Rua Voluntários da Pátria 200 - Rio de Janeiro RJ,22270-010,95.00,Sudeste,IN_TRANSIT,4,-22.9545,-43.1925
+20260301_2207_10,João Pereira,Av. Rebouças 2000 - São Paulo SP,05402-300,340.60,Sudeste,PENDING,6,-23.5607,-46.6748
